@@ -14,7 +14,7 @@ authors:
 - Josien P. W. Pluim
 - Maureen A. J. M. van Eijnatten
 
-date: '2024'
+date: '2024-01-01'
 doi: 'https://doi.org/10.1002/mp.17000'
 
 # Publication type.

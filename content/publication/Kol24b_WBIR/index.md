@@ -12,7 +12,7 @@ authors:
 - Matteo Maspero
 - Josien P. W. Pluim
 
-date: '2024'
+date: '2024-01-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
