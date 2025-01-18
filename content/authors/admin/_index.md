@@ -45,6 +45,12 @@ interests:
   - Movement Sciences
   - Artificial Intelligence 
 
+---
+
+## About Me
+I am a passionate biomedical engineer interested in AI and medical image analysis technologies and evaluating their impact on patient care. Detail-oriented and curious, I approach challenges systematically and with enthusiasm. I enjoy working in environments where goals are clearly defined and aligned with a shared vision. Outside of work, I enjoy spending time with friends and family, playing field hockey, or traveling (whether for the food, landscape sceneries, or simply to unwind in the sun).
+
+
 # education:
 #   - area: PhD Artificial Intelligence
 #     institution: Stanford University
@@ -173,7 +179,4 @@ interests:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-# ---
 
-## About Me
-I am a passionate biomedical engineer interested in AI and medical image analysis technologies and evaluating their impact on patient care. Detail-oriented and curious, I approach challenges systematically and with enthusiasm. I enjoy working in environments where goals are clearly defined and aligned with a shared vision. Outside of work, I enjoy spending time with friends and family, playing field hockey, or traveling (whether for the food, landscape sceneries, or simply to unwind in the sun).
