@@ -12,13 +12,12 @@ authors:
 - Matteo Maspero
 - Josien P. W. Pluim
 
-date: '2024-01-01'
+date: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types:
-- 'paper-conference'
+publication_types: ["article-journal"]
 publication: '*Biomedical Image Registration*'
 
 abstract: Deeep learning models have revolutionized image registration but their accuracy can degrade under unforeseen data variations (domain shifts). It is crucial to assess model robustness under such shifts, often accomplished using simulated domain shifts and expert annotations, e.g., landmarks. This work presents ProactiV-Reg, an annotation-free approach that utilizes a learnable image mapping. It iteratively adjusts a moving image to align with a fixed image under simulated domain shifts. The distances between the perturbed and the optimized images reveal model robustness. We evaluate ProactiV-Reg on three models, showcasing its ability to detect robustness differences, identify dominant perturbations, and provide insights into the model's input requirements.
