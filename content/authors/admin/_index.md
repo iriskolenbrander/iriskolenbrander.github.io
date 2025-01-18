@@ -3,7 +3,7 @@
 title: Iris Kolenbrander
 
 # Name pronunciation (optional)
-name_pronunciation: ""
+name_pronunciation: "Iris"
 
 # Full name (for SEO)
 first_name: Iris

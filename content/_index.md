@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "Iris Kolenbrander"
       # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Recent Publications
       filters:
         folders:
           - publication
@@ -43,7 +43,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: List of Publications
       text: ""
       filters:
         folders:
