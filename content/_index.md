@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: collection
+  - block: section
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: 
@@ -18,8 +18,6 @@ sections:
       # button:
       #   text: Download CV
       #   url: uploads/resume.pdf
-      filters:
-        folders: []
     design:
       css_class: dark
       background:
