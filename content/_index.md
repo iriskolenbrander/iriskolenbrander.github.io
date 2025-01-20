@@ -18,6 +18,8 @@ sections:
       # button:
       #   text: Download CV
       #   url: uploads/resume.pdf
+      filters:
+        folders: []
     design:
       css_class: dark
       background:
