@@ -9,15 +9,10 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: minimal
+  - block: hero
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: 
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf
+      title: Iris Kolenbrander
+      text: Welcome to my personal page!
     design:
       css_class: dark
       background:
